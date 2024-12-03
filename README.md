@@ -21,3 +21,7 @@
  ● Useaqueuefor managing order statuses and processing.
  ● Store menu items and orders in separate in-memory arrays or collections.
  ● Integrate node-cron to simulate periodic status updates
+
+# Run the code
+->npm i express body-parser node-cron ws
+->npm start
